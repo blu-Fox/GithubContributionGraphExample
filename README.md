@@ -10,7 +10,7 @@ An example project for [Github contribution graph with Swift Charts](https://www
 
 ## Author
 
-Artem Novichkov, https://www.artemnovichkov.com/about
+Artem Novichkov, https://www.artemnovichkov.com/
 
 ## License
 
